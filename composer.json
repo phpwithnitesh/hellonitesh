@@ -1,0 +1,14 @@
+{
+    "name": "niteshpawar/hellonitesh",
+    "description": "this is packages for all basic php codes",
+    "type": "library",
+    "require-dev": {
+        "php": ">=8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Niteshpawar\\Hellonitesh\\": "src/"
+        }
+    },
+    "require": {}
+}
